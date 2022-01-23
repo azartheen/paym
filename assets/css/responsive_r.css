@@ -1,0 +1,32 @@
+@media (min-width:1000px) and (max-width:1024px){
+section.slider-wrapper h1{font-size: 51px; }
+section.slider-wrapper p{font-size: 25px; width: 64%;}
+.testimonials-slider{background-size: 83%;}
+section.ct-table-sec{padding: 0 0 10px;}
+.packge-div h3{font-size: 1.9rem;}
+section.partner-work-sec{margin: -45px 0 0 0;}
+.footer-main { background-repeat:no-repeat; padding:105px 0 0; background-size:cover; }
+footer.footer-main h2{font-size: 1.5rem;}
+.getquote-popup{width: 70vw;}
+img.img-fluid.woman-pic{width: 21%;}
+img.img-fluid.woman-pic{ left: -9px;  bottom: 266px; }
+img.img-fluid.man-pic{bottom: 276px; right:0;}
+.slider-wrapper{background-size: 62%; background-position: right 4% bottom 208px;}
+img.img-fluid.part04{left: 224px;bottom: 121px;}
+.footer-bottom .disclaimer { margin: 101px 0 0; text-align: center; padding-bottom: 25px; }
+.footer-bottom { padding-top:177px; min-height:340px; }
+.footer-contact-lft ul li, .footer-contact-rht ul li { font-size:12px; }
+.footer-one p { font-size:12px; }
+.footer-two ul li a { font-size:12px; }
+.flatdrip-box h3 { font-size:17px; }
+.testimonials-box h4 { font-size:35px; }
+.testimonials-slide p { font-size:17px; }
+.testimonials-slide h3 { font-size:22px; }
+.testimonials-slide p:before { left:-6px; }
+}
+
+@media (min-width: 100px) and (max-width: 900px)
+.call-back-popup {
+    width: 90%;
+    top: 10%;
+}
